@@ -1,2 +1,3 @@
 # auto-post
-Auto posting untuk discord
+
+Lazy to make README.md xD
